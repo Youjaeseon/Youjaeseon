@@ -23,11 +23,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### AI / Computer Vision
-
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat&logo=yolo&logoColor=white)
-![VLM](https://img.shields.io/badge/VLM-8A2BE2?style=flat)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
