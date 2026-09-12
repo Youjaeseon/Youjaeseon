@@ -33,3 +33,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 👨‍💻 About Me
+
+- Fullstack Developer를 목표로 하고 있습니다.
+- 여러 도전과 학습을 통해 사람들에게 도움을 줄 수 있는 개발을 하는것이 목표입니다.
+
+- ## 🚀 Projects
+
+### 🧭 내비게이터
+- 자기소개서 자동 생성 웹 서비스
+- 사용자 입력을 기반으로 자기소개서 작성을 지원하는 서비스 개발
+- **Tech:** java,Springboot
+
+### 👁️ 시선이음
+- 고령층을 위한 AI 기반 문서 이해 및 음성 안내 서비스
+- 문서 이미지 분석, 요약, 질의응답 및 STT/TTS 기능 개발
+- FastAPI 기반 백엔드 및 AI 처리 파이프라인 구축
+- **Tech:** Python, FastAPI, VLM, YOLO, STT, TTS
