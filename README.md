@@ -34,10 +34,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 👨‍💻 About Me
-
-- Fullstack Developer를 목표로 하고 있습니다.
-- 여러 도전과 학습을 통해 사람들에게 도움을 줄 수 있는 개발을 하는것이 목표입니다.
 
 - ## 🚀 Projects
 
