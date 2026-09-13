@@ -42,3 +42,4 @@
 - 문서 이미지 분석, 요약, 질의응답 및 STT/TTS 기능 개발
 - FastAPI 기반 백엔드 및 AI 처리 파이프라인 구축
 - **Tech:** Python, FastAPI, VLM, YOLO, STT, TTS
+- 정보통신기획원장상 최우수상
